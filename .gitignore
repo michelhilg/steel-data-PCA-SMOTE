@@ -1,2 +1,5 @@
 # All .csv as data files
 *.csv
+
+# OS files
+*.DS_Store
